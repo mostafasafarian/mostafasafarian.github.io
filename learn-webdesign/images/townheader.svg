@@ -35,31 +35,7 @@
 <circle fill="#205D76" cx="248" cy="36" r="2"/>
 <circle fill="#205D76" cx="248" cy="56.1" r="2.2"/>
 <polygon fill="#62D4D4" points="339.5,61.5 290.3,61.5 290.3,46.6 339.5,46.6 326.7,54.4 "/>
-		   <defs
-     id="defs6"><clipPath
-       id="clipPath16"><path
-         d="M 9.12e-6,0 612.00001,0 l 0,792 -612.00000088,0 0,-792 z"
-         inkscape:connector-curvature="0"
-         id="path18" /></clipPath><clipPath
-       id="clipPath28"><path
-         d="M 9.12e-6,0 612.00001,0 l 0,792 -612.00000088,0 0,-792 z"
-         inkscape:connector-curvature="0"
-         id="path30" /></clipPath></defs><g
-     transform="matrix(1.25,0,0,-1.25,0,990)"
-     id="g10"><g
-       id="g12"><g
-         clip-path="url(#clipPath16)"
-         id="g14"><text
-           transform="matrix(1,0,0,-1,75.024,710.98)"
-           id="text20"><tspan
-             x="0 6.336 12.71424 18.9552 25.291201 31.55328 37.889278 44.15136 50.487358 56.749439 63.085442 69.347519 75.683517 81.945602 88.281601 94.543678 100.87968 107.14176 113.47776 119.73984 126.07584"
-             y="0"
-             id="tspan22"
-             style="font-size:10.56000042px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier New">SitePersian Tutorials</tspan></text>
-</g></g><g
-       id="g24"><g
-         clip-path="url(#clipPath28)"
-         id="g26" /></g></g>
+
 <ellipse fill="#205D76" stroke="#205D76" stroke-width="0.5794" stroke-miterlimit="10" cx="248" cy="84.1" rx="4.9" ry="1.3"/>
 <polygon fill="#205D76" stroke="#205D76" stroke-width="0.5794" stroke-miterlimit="10" points="248.2,83.9 265.4,113.7 
 	282.6,143.5 248.2,143.5 213.7,143.5 230.9,113.7 "/>
