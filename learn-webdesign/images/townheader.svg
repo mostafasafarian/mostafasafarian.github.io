@@ -35,7 +35,16 @@
 <circle fill="#205D76" cx="248" cy="36" r="2"/>
 <circle fill="#205D76" cx="248" cy="56.1" r="2.2"/>
 <polygon fill="#62D4D4" points="339.5,61.5 290.3,61.5 290.3,46.6 339.5,46.6 326.7,54.4 "/>
-<g
+		   <defs
+     id="defs6"><clipPath
+       id="clipPath16"><path
+         d="M 9.12e-6,0 612.00001,0 l 0,792 -612.00000088,0 0,-792 z"
+         inkscape:connector-curvature="0"
+         id="path18" /></clipPath><clipPath
+       id="clipPath28"><path
+         d="M 9.12e-6,0 612.00001,0 l 0,792 -612.00000088,0 0,-792 z"
+         inkscape:connector-curvature="0"
+         id="path30" /></clipPath></defs><g
      transform="matrix(1.25,0,0,-1.25,0,990)"
      id="g10"><g
        id="g12"><g
