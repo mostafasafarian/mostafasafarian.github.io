@@ -2,7 +2,7 @@ body {
   margin: 0; /* eliminates margin spacing on body so that the footer color is able to fill the window */
   /* Sets the background for the entire page to a light yellow color */
   background-color: #FAF8DA;
-  font-family: 'Open Sans', sans-serif; /* Font from Google Fonts */
+  font-family: 'Noto Naskh Arabic', sans-serif; /* Font from Google Fonts */
 }
 
 /* begin header styling */
