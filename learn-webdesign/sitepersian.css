@@ -4,8 +4,12 @@ body {
   /* Sets the background for the entire page to a light yellow color */
   background-color: #FAF8DA;
   font-family: 'Noto Naskh Arabic', sans-serif; /* Font from Google Fonts */
+  direction: rtl;
 }
-
+a {
+  text-decoration: none; 
+}
+}
 /* begin header styling */
 .primary-header {
   text-align: center; /* This will center the main heading and the main image */
