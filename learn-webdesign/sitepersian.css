@@ -6,6 +6,10 @@ body {
   font-family: 'Noto Naskh Arabic', sans-serif; /* Font from Google Fonts */
   direction: rtl;
 }
+header {
+    margin: 0 auto;
+    text-align: center;
+}
 a {
   text-decoration: none; 
 }
